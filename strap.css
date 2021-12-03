@@ -1,0 +1,375 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+span{
+    color: red;
+}
+
+
+.navbar-brand{
+    font-size: 32px !important;
+}
+
+
+.fish{
+border-radius: 10px;  
+}
+
+
+
+.fish input{
+    border: none;
+    outline: none;
+}
+
+
+.moon{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 22px;
+    padding-left: 20px;
+}
+
+
+.com{
+    width: 80% !important;
+    margin: auto !important;
+}
+
+
+.dhoni{
+    align-items: center;
+}
+
+
+
+
+.background{
+    background: url(./images/banner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+.font h1{
+    font-size: 55px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+
+
+
+.beer{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    width: 3300px;
+   
+}
+
+.beer .fas, .far{
+    font-size: 32px;
+    padding-top: 15px;
+    color: blue;
+    gap: 30px;
+}
+
+.grow{
+    gap: 50px;
+}
+
+
+.beer .far{
+    line-height: 24px;
+
+}
+
+
+
+
+.floyed{
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+
+.floyed h2{
+    font-size: 16px;
+    padding-top: 64px;
+}
+
+
+
+.floyed h1{
+    padding-bottom: 60px;
+
+}
+
+
+.one{
+    padding-left: 140px;
+}
+
+
+.ceer{
+    margin-top: 60px !important;
+}
+
+
+
+@media(max-width: 700px){
+
+    .one{
+        padding: 0;
+    }
+}
+
+
+.lol{
+    padding-top: 20px;
+}
+
+
+.pack{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+.may{
+    background: url(./images/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.may h1{
+    color: #fff;
+}
+
+
+#beer {
+    background-color: #fff;
+}
+
+.bless{
+    text-align: center;
+}
+
+
+
+
+.gorela img{
+    width: 80%;
+}
+
+
+.hero{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.hero h1{
+    padding-bottom: 90px;
+}
+
+
+
+.gorela{
+    position: relative;
+}
+
+.ggg{
+    overflow: hidden;
+}
+
+
+.tycoon{
+position: absolute;
+/* bottom: -100px; */
+bottom: -100px;
+transform: translateX(80px);
+background: linear-gradient(rgba(0,0,0.1),rgba(0,0,0.1));
+padding: 10px 20px;
+padding-left: -1200px;
+overflow: hidden;
+transition: 0.5s;
+}
+
+
+
+.gorela:hover .tycoon{
+    bottom: 100px;
+}
+
+
+.tycoon .fab{
+     border: 2px solid  #fff;
+     
+     padding: 5px 16px;
+     background: #fff;
+     font-size: 16px;
+     border-radius: 80px;
+}
+
+
+
+
+
+.back{
+background: url(./images/bg2.jpg);
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 50vh;
+margin-bottom: 100px;
+}
+
+
+.brother{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.brother h1{
+    font-size: 19px;
+}
+
+
+.brother h2{
+padding-top: 110px;
+}
+
+
+.grow{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+
+.run h2{
+    font-size: 12px;
+}
+
+.run-1 h3{
+    font-size: 14px;
+}
+
+.work{
+    text-align: left;
+    font-size: 23px;
+}
+
+.work-1{
+    text-align: left;
+    line-height: 20px;
+    font-weight: lighter;
+}
+
+
+.way{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.way img{
+    text-align: left;
+}
+
+
+.run{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 7px;
+    padding-bottom: 18px;
+}
+
+.run img{
+    width: 20%;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    border: 1px solid #000;
+    padding: 6px;
+}
+
+
+.way a{
+    text-align: left;
+    display: flex;
+    text-decoration: none;
+    justify-content: left;
+    font-weight: bold;
+}
+
+.sure{
+    text-align: left;
+}
+
+
+.shadow{
+
+    /* box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); */
+    box-shadow: inset 0 0 10px #000000;
+    /* margin-right: 10px; */
+    width: 90%;
+    
+}
+
+
+.sell{
+    width: 80%;
+}
+
+
+
+.hero{
+    padding-top: 90px;
+}
+
+
+.coli img{
+    border-radius: 40px;
+}
+
+
+
+
+.gutter{
+    line-height: 40px;
+}
+
+
+
+.footer{
+    background: #000;
+    color: #fff;
+    padding: 100px;
+}
+
+.gutter-1{
+    line-height: 30px;
+}
+
+
+
+
+footer{
+    text-align: center;
+    padding-top: 80px;
+}
+
